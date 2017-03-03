@@ -9,8 +9,8 @@ rvm:
 jdk:
   - oraclejdk8
 env:
-  - INTEGRATION=false
-  # - INTEGRATION=true
+  #- INTEGRATION=false
+  - INTEGRATION=true
   # - INTEGRATION=false FEATURE_FLAG=persistent_queues
   # - INTEGRATION=true FEATURE_FLAG=persistent_queues
 before_install:
