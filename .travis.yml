@@ -18,6 +18,7 @@ before_install:
   # - gem uninstall -i /home/travis/.rvm/gems/jruby-1.7.25@global bundler
   # - gem install bundler -v 1.12.5 --no-rdoc --no-ri --no-document --quiet
 install:
+  - echo "y"
   #  - rake test:install-core
 before_script:
   #- echo "--order rand" > .rspec
