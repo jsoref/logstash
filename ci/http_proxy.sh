@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+set -e
 sudo apt-get install -y squid3 net-tools ufw
 echo y | sudo ufw enable
 sudo ufw deny out https
