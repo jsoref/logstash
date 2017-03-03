@@ -23,7 +23,7 @@ install:
 before_script:
   #- echo "--order rand" > .rspec
 script:
-  -i ci/travis_integration_install.sh
+  - ci/travis_integration_install.sh
   - ci/http_proxy.sh
   # - |+
   #     if [ "$INTEGRATION" == "true" ]; then
