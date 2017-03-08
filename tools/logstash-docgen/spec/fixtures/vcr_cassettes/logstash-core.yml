@@ -42,11 +42,9 @@ http_interactions:
       X-Content-Type-Options:
       - nosniff
       Etag:
-      - W/"aafe8b2d5a54b17008aadfad2d80022c"
       Cache-Control:
       - max-age=0, private, must-revalidate
       X-Request-Id:
-      - 6dd0326a-3a4c-4d60-8fc3-c76f07085872
       X-Runtime:
       - '0.006193'
       X-Ua-Compatible:
@@ -98,11 +96,9 @@ http_interactions:
       X-Content-Type-Options:
       - nosniff
       Etag:
-      - W/"f0e86058e0041b67adbc2854e6525213"
       Cache-Control:
       - max-age=0, private, must-revalidate
       X-Request-Id:
-      - a37fa4e5-29a0-4eac-934b-e3cabf34ec13
       X-Runtime:
       - '0.019220'
       X-Ua-Compatible:
